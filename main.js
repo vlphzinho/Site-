@@ -67,6 +67,7 @@ class Blog extends HTMLElement {
          height: 100px;
        }
       `
+      
       return style
    }
 }
